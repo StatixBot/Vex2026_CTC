@@ -18,7 +18,8 @@
             "name": "Win32",
             "includePath": [
                 "${vex_sdkIncludes}",
-                "${workspaceFolder}/src/headers"
+                "${workspaceFolder}/src/headers",
+                "${workspaceFolder}/include"
             ],
             "compilerPath": "${vex_compilerPath}",
             "cStandard": "gnu99",
